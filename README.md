@@ -1,6 +1,6 @@
 <!-- Profile README for GitHub: yaazhvendhan -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00E8FF;">Yaazhvendhan</span></h1>
+<h1 align="center"><span style="color:#00E8FF;">✨ Yaazhvendhan M ✨</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=700&lines=👨‍💻+AI+Explorer;⚡+Full-Stack+Learner;🚀+Futuristic+Problem+Solver;🧠+Always+Learning+Always+Building"/>
 </p>
