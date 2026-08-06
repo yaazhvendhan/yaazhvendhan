@@ -153,7 +153,7 @@
 
 <!-- Activity Graph - Liquid Effect -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaazhvendhan&theme=tokyo-night&bg_color=0D1117&color=00E8FF&line=7B2FF7&point=00E8FF&area=true&hide_border=true&area_color=rgba(0,232,255,0.1)" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaazhvendhan&bg_color=e6dbf0&color=40023c&line=6d169c&point=1c0835&area=true&hide_border=true"/>
 </div>
 
 <br/>
