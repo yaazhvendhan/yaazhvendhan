@@ -12,7 +12,7 @@
   <tr>
     <td>
       <div align="center" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 24px; padding: 30px; box-shadow: 0 8px 32px rgba(0, 232, 255, 0.1);">
-        <h3>✨ <span style="background: linear-gradient(135deg, #00E8FF, #7B2FF7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About The Journey</span></h3>
+        <h3> <span style="background: linear-gradient(135deg, #00E8FF, #7B2FF7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About The Journey</span></h3>
         <table>
           <tr>
             <td>Diving deep into <b>Artificial Intelligence & Machine Learning</b></td>
@@ -178,7 +178,7 @@
 
 <!-- Liquid Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer&animation=twinkling&text=✨%20Innovating%20One%20Line%20at%20a%20Time%20✨&fontSize=18&fontColor=00E8FF&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer&animation=twinkling&text=%20Innovating%20One%20Line%20at%20a%20Time%20&fontSize=18&fontColor=00E8FF&fontAlignY=70"/>
 </div>
 
 ---
@@ -186,4 +186,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yaazhvendhan&style=for-the-badge&color=00E8FF&label=Profile+Views&labelColor=rgba(0,232,255,0.1)" alt="Profile Views"/>
 </div>
-e
